@@ -1,0 +1,9 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Local tools and secrets (never commit these)
+.env
+.netlify/
+node_modules/
+*.log
