@@ -17,7 +17,7 @@
    LinkedIn is intentionally not listed because no profile address was given. */
 window.PORTFOLIO_CONTACT = [
   { type: "email",     label: "Email",               href: "mailto:pratikbam64@gmail.com" },
-  { type: "whatsapp",  label: "WhatsApp",            href: "https://wa.me/971582930469", note: "Start a chat" },
+  { type: "whatsapp",  label: "WhatsApp",            href: "https://wa.me/971582934069", note: "Start a chat" },
   { type: "instagram", label: "Instagram",           href: "https://www.instagram.com/still_withinn", note: "@still_withinn" },
   { type: "facebook",  label: "Facebook",            href: "https://www.facebook.com/pra.tik.609781", note: "Facebook profile" },
   { type: "amazon",    label: "Amazon Author Page",  href: "https://www.amazon.com/author/pratikwrites", note: "amazon.com/author/pratikwrites" }
