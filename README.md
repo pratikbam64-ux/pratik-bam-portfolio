@@ -10,12 +10,15 @@ The site is intended to be a lightweight static website built with HTML, CSS, an
 
 ```text
 .
-├── index.html       # Main portfolio page (to be uploaded)
+├── index.html       # Main portfolio page
+├── css/ js/ fonts/ images/   # Styles, scripts, self-hosted fonts, photo and book covers
+├── js/config.js     # Contact links, photo, book covers and Amazon links
 ├── netlify.toml     # Netlify static-site configuration
+├── PUBLISHING.md    # Step-by-step publishing guide
 └── README.md
 ```
 
-**Important:** `index.html` is not currently in this repository. Upload the actual HTML file exported from Claude and name it exactly `index.html` (all lowercase) in the repository root. Do not deploy until the real page is present.
+**Status:** the portfolio website (`index.html` and its assets) is now in this repository. See `PUBLISHING.md` for the publishing steps. Replace the placeholder `https://YOUR-SITE-URL` with the real Netlify address after the first deploy.
 
 ## Deploy with Netlify
 
